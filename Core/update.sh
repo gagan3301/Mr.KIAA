@@ -1,8 +1,8 @@
 #!/bin/bash
-# ORIGINAL CREATOR: Luca Garofalo (KIA)
-# AUTHOR: Luca Garofalo (KIA)
-# Copyright (C) 2021-2023 KIA <lukege287@gmail.com>
-# License: GNU General Public License v3.0
+# ORIGINAL CREATOR: Gagan (KIA)
+# AUTHOR: Gagan (KIA)
+#  KIA <rtg.gagan@gmail.com>
+# 
 
 GREEN=$(tput setaf 2)
 LIGHTBLUE=$(tput setaf 6)

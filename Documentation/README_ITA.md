@@ -349,7 +349,7 @@ edit Language.json
 
 ## <p align= center>CREATO CON :heart: DA KIA IN :it:</p>
 
-## <p align = center>CREATORE ORIGINALE: <a href = "https://github.com/KIA">LUCA GAROFALO (KIA)</a></p>
+## <p align = center>CREATORE ORIGINALE: <a href = "https://github.com/KIA">Gagan (KIA)</a></p>
 
 
 ## <p align = center>LICENZA: GPL-3.0 License <br>COPYRIGHT: (C) 2021-2023 KIA 

@@ -1,8 +1,8 @@
 <?php
-    /*ORIGINAL CREATOR: Luca Garofalo (KIA)
-    AUTHOR: Luca Garofalo (KIA)
-    Copyright (C) 2022-2023 KIA <lukege287@gmail.com>
-    License: GNU General Public License v3.0*/
+    /*ORIGINAL CREATOR: Gagan (KIA)
+    AUTHOR: Gagan (KIA)
+    Copyright (C) 2022-2023 KIA <rtg.gagan@gmail.com>
+    */
 
     $filename = "../Graphs/Temp.txt";
     $reader = fopen("../Graphs/Temp.txt","r");

@@ -1,8 +1,8 @@
 #!/bin/bash
-# ORIGINAL CREATOR: Luca Garofalo (KIA)
-# AUTHOR: Luca Garofalo (KIA)
-# Copyright (C) 2021-2023 KIA <lukege287@gmail.com>
-# License: GNU General Public License v3.0
+# ORIGINAL CREATOR: Gagan (KIA)
+# AUTHOR: Gagan (KIA)
+#  KIA <rtg.gagan@gmail.com>
+# 
 
 BLUE=$(tput setaf 6)
 GREEN=$(tput setaf 2)
@@ -119,29 +119,6 @@ function Options {
 		then
 		Logs="True"
 	fi
-	printf "${WHITE}\nSELECT YOUR CLI-DEFAULT LANGUAGE\n(1)ENGLISH\n(2)ITALIANO\n(3)FRANÇAIS\n\n"
-	read -p"$GREEN[#MR.kia#]$WHITE-->" Language
-	while [ "$Language" == "" ];
-		do
-		printf "${WHITE}\nSELECT YOUR GUI-DEFAULT LANGUAGE\n(1)ENGLISH\n(2)ITALIANO\n(3)FRANÇAIS\n\n"
-		read -p"$GREEN[#MR.kia#]$WHITE-->" Language
-	done
-	if [ $Language == 1 ];
-		then
-		Lang="English"
-		mode="ENGLISH"
-
-	elif [ $Language == 2 ];
-		then
-		Lang="Italian"
-		mode="ITALIANO" 
-
-	elif [ $Language == 3 ];
-		then
-		Lang="French"
-		mode="FRANÇAIS"
-	fi
-	printf "\n${WHITE}CLI-LANGUAGE:${GREEN}$mode\n"
 	printf "${WHITE}\nSELECT YOUR DATE-FORMAT\n(1)EUROPE(DD/MM/YYYY)\n(2)AMERICA'USA'(MM/DD/YYYY)\n(3)ASIA(YYYY/MM/DD)\n\n"
 	read -p"$GREEN[#MR.kia#]$WHITE-->" DateFormat
 	while [ "$DateFormat" == "" ];

@@ -1,7 +1,7 @@
-<!--ORIGINAL CREATOR: Luca Garofalo (KIA)
-AUTHOR: Luca Garofalo (KIA)
-Copyright (C) 2021-2023 KIA <lukege287@gmail.com>
-License: GNU General Public License v3.0-->
+<!--ORIGINAL CREATOR: Gagan (KIA)
+AUTHOR: Gagan (KIA)
+ KIA <rtg.gagan@gmail.com>
+-->
 <!DOCTYPE html>
 <html>
     <head>
@@ -81,7 +81,7 @@ License: GNU General Public License v3.0-->
             <p id = "Const">MY-CONTACTS</p>
             <div class = "Board">
                 <a href = "https://instagram.com/lucks_022" target = "blank"><img src = "../Icon/instagram.png" id = "Exc" abbr title = "Instagram"></a>
-                <a href = "mailto:lukege287@gmail.com" target = "blank"><img src = "../Icon/Email.png" abbr title = "Email" ></a>
+                <a href = "mailto:rtg.gagan@gmail.com" target = "blank"><img src = "../Icon/Email.png" abbr title = "Email" ></a>
                 <a href = "https://github.com/KIA" target = "blank"><img src = "../Icon/Git-hub.png" abbr title = "GitHub"></a>
                 <a href = "https://linkedin.com/in/KIA" target = "blank"><img src = "../Icon/linkedin.png" abbr title = "Linkedin"></a>
                 <a href = "https://twitter.com/Lucksi_22" target = "blank"><img src = "../Icon/Twitter.png" abbr title = "Twitter"></a>
