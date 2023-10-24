@@ -1,6 +1,6 @@
-# ORIGINAL CREATOR: Gagan (KIA)
-# AUTHOR: Gagan (KIA)
-#  KIA <rtg.gagan@gmail.com>
+# ORIGINAL CREATOR:  (KIA)
+# AUTHOR:  (KIA)
+#  KIA <>
 # 
 
 import os
@@ -65,11 +65,8 @@ class Main:
         print(Font.Color.WHITE + u)
         print(Font.Color.GREEN + text
               +
-              Font.Color.WHITE + "| A COMPLETE OSINT TOOL:) CURATED      " + Font.Color.BANNER + "BY Gagan, Nand & Irtika" + Font.Color.RESET + Font.Color.WHITE + "                      |\n|                                                                   |")
-        print(Font.Color.WHITE + "|[+]" + Font.Color.GREEN + "VERSION:" + version +      Font.Color.WHITE +  "\t\t\tCURRENT-DATE: {}".format(Font.Color.GREEN + Date1) + 
-              Font.Color.WHITE + "    |")
-        print(
-            Font.Color.YELLOW + "|Instagram:been.nuking " + Font.Color.WHITE + "\t\t\tDATE-FORMAT: {}".format(Font.Color.GREEN + Country + Font.Color.YELLOW) + "          \n|Email:rtg.gagan@gmail.com" + Font.Color.WHITE + "\t\tCLI-LANGUAGE: {}".format(Font.Color.GREEN + Lang + Font.Color.YELLOW) + "       |\n|GitHub:IndraTensei                                                    |\n|Twitter:@indra_tensei                                            |")
+              Font.Color.WHITE + "| A COMPLETE OSINT TOOL:) CURATED      " + Font.Color.BANNER + "By Gagan, Nand & Irtika" + Font.Color.RESET + Font.Color.WHITE + "      |\n|                                                                   |")
+        print(Font.Color.WHITE + "|[+]" +Font.Color.WHITE +  "\t\t\tCURRENT-DATE: {}".format(Font.Color.GREEN + Date1) + Font.Color.WHITE + "                    |")
         print(Font.Color.WHITE +
               "---------------------------------------------------------------------")
 
@@ -91,8 +88,6 @@ class Main:
               Font.Color.BANNER + "CODED BY KIA" + Font.Color.RESET)
         print(Font.Color.WHITE + "\n[+]" +
               Font.Color.GREEN + "VERSION:" + version)
-        print(
-            Font.Color.YELLOW + "Instagram:lucks_022\nEMAIL:rtg.gagan@gmail.com\nGIT-HUB:KIA\nTwitter:@indra_tensei\nLinkedin:https://www.linkedin.com/in/KIA\n")
 
     @staticmethod
     def main(Mode):

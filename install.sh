@@ -1,7 +1,7 @@
 # #!/bin/bash
-# ORIGINAL CREATOR: Gagan (KIA)
-# AUTHOR: Gagan (KIA)
-#  KIA <rtg.gagan@gmail.com>
+# ORIGINAL CREATOR:  (KIA)
+# AUTHOR:  (KIA)
+#  KIA <>
 # 
 
 . /etc/os-release

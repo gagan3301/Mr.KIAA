@@ -1,7 +1,7 @@
 <?php
-    /*ORIGINAL CREATOR: Gagan (KIA)
-    AUTHOR: Gagan (KIA)
-    Copyright (C) 2023 KIA <rtg.gagan@gmail.com>
+    /*ORIGINAL CREATOR:  (KIA)
+    AUTHOR:  (KIA)
+    Copyright (C) 2023 KIA <>
     */
 
     $filename = "../Maps/Temp.txt";
