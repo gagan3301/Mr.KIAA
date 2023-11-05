@@ -1,7 +1,7 @@
 <?php
-    /*ORIGINAL CREATOR: Gagan (KIA)
-    AUTHOR: Gagan (KIA)
-    Copyright 2022-2023 KIA <rtg.gagan@gmail.com>
+    /*ORIGINAL CREATOR: Gagan, Nand and Irtika
+    AUTHOR: Gagan, Nand and Irtika
+    Copyright 2022-2023 KIA <>
     */ 
 
     function Decode($content){
