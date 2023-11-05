@@ -1,0 +1,8 @@
+GOOGLE-DORKS:
+
+[GENERAL-DORKS]:
+----------------------------------------------------------------------------------------------------------------------
+| https://www.google.com/search?q=intext:(%22919167381663%22)
+| https://www.google.com/search?q=intext:(%22919167381663%22)filetype:txt
+| https://www.google.com/search?q=intext:(%22919167381663%22)filetype:csv
+| https://www.google.com/search?q=intext:(%22919167381663%22)filetype:pdf

@@ -1,0 +1,22 @@
+SCANNING EXECUTED ON:
+Date: 25/10/2023 13:06:34
+
+
+THIS EMAIL IS VALID
+
+EMAIL DATA:
+NAME: rajveer2004ocean
+DOMAIN: gmail.com
+EMAIL: rajveer2004ocean@gmail.com
+SMTP: true
+FREE-DOMAIN: true
+TEMPORARY: false
+CATCH-ALL: false
+
+
+FOUND MX-RECORDS(DNS)
+RECORD N 1: alt4.gmail-smtp-in.l.google.com.
+RECORD N 2: alt2.gmail-smtp-in.l.google.com.
+RECORD N 3: gmail-smtp-in.l.google.com.
+RECORD N 4: alt3.gmail-smtp-in.l.google.com.
+RECORD N 5: alt1.gmail-smtp-in.l.google.com.
