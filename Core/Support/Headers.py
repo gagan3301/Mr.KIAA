@@ -1,6 +1,6 @@
-# ORIGINAL CREATOR: Gagan (KIA)
-# AUTHOR: Gagan (KIA)
-# Copyright (C) 2023 KIA <rtg.gagan@gmail.com>
+# ORIGINAL CREATOR:  (KIA)
+# AUTHOR:  (KIA)
+# Copyright (C) 2023 KIA <>
 # License: GNU General Public License v3.
 
 from Core.Support import Useragent
