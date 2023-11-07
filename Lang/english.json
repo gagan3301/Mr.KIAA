@@ -1,8 +1,8 @@
 {
     "Copyright-Notices":{
-        "Original Creator": "Gagan (KIA)",
-        "Author": "Gagan (KIA)",
-        "Copyright": "(C) 2022-2023 KIA <rtg.gagan@gmail.com>",
+        "Original Creator": "Gagan, Nand and Irtika",
+        "Author": "Gagan, Nand and Irtika",
+        "Copyright": "(C) 2022-2023 KIA <>",
         "License": "GPL-3.0 License"
     },
 
@@ -12,7 +12,7 @@
         "Proxy": "YOUR PROXY IP IS: {}",
         "ProxyLoc": "YOUR PROXY IP IS LOCATED IN: {} ({})",
         "Dorks": "WOULD YOU LIKE TO PERFORM A GOOGLE/YANDEX DORK SEARCH?(1)YES(2)NO\n\n",
-        "Hypo": "WOULD YOU LIKE TO GENERATE HYPOTHESIS(HYPOTHESIS MAY NOT BE 100% ACCURATED)?(1)SI(2)NO\n\n",
+        "Hypo": "WOULD YOU LIKE TO GENERATE HYPOTHESIS(HYPOTHESIS MAY NOT BE 100% ACCURATED)?(1)YES(2)NO\n\n",
         "Encode": "WOULD YOU LIKE TO ENCODE THE REPORT?(1)YES(2)NO",
         "Connection_Error1": "CONNECTION-ERROR...TRYNG WITH NO PROXIES",
         "Connection_Error2": "CONNECTION ERROR...",
@@ -181,9 +181,9 @@
             "Parameters":{
                 "KeyFound": "API KEY FOUND",
                 "KeyNoFound": "API KEY NOT FOUND DOING CLASSICAL WHOIS",
-                "PhoneFound": "PHONE NUMBER FOUND: {} WOULD YOU LIKE TO EXECUTE A SCAN?(1)SI(2)NO",
+                "PhoneFound": "PHONE NUMBER FOUND: {} WOULD YOU LIKE TO EXECUTE A SCAN?(1)YES(2)NO",
                 "PhoneNotFound": "PHONE NUMBER NOT FOUND...",
-                "EmailFound": "EMAIL FOUND: {} WOULD YOU LIKE TO EXECUTE A SCAN?(1)SI(2)NO",
+                "EmailFound": "EMAIL FOUND: {} WOULD YOU LIKE TO EXECUTE A SCAN?(1)YES(2)NO",
                 "EmailNotFound": "EMAIL NOT FOUND...",
                 "Error": "OPS LOOKS LIKE SOME INFORMATION ARE NOT AVAIABLE DOING CLASSICAL WHOIS "
             }
